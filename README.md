@@ -35,3 +35,5 @@ For the tags and categories I would say it will be the following
 - Face to Face
 - Garter
 - Moccasin
+
+This will make it easier for people to find specific artworks.
